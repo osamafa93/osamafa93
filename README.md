@@ -13,6 +13,9 @@
 - 📫 How to reach me: osamadev93@gmail.com
 - ⚡ Fun fact: Coding 24/7
 - ✨ Portfolio: [Dribbble](https://dribbble.com/osamafa93)
+- 👨🏽‍💻 Languages and Tools: 
+
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamafa93&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osamafa93&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
