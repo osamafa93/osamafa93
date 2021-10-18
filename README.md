@@ -13,7 +13,7 @@
 - 📫 How to reach me: osamadev93@gmail.com
 - ⚡ Fun fact: Coding 24/7
 - ✨ Portfolio: [Dribbble](https://dribbble.com/osamafa93)
-- 👨🏽‍💻 Languages and Tools:<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code><code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code>
+- 👨🏽‍💻 Languages and Tools: <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"></code> <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code> <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code> <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"></code> <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code> <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code> <code><img height="20" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"></code>
 
 
 
