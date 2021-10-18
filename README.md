@@ -14,7 +14,7 @@
 - ⚡ Fun fact: Coding 24/7
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osamafa93&show_icons=true&theme=radical)
-![luthfiarifin most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=osamafa93&theme=dark&layout=compact)
+![luthfiarifin most used language](https://github-readme-stats-phi-blond.vercel.app/api/top-langs/?username=luthfiarifin&theme=dark&layout=compact)
 
 
 
