@@ -7,7 +7,7 @@
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- -🔭 I’m currently working on ... -->
 <!-- - 😄 Pronouns: ...-->
-- 🌱 I’m currently learning Javascript, React JS, Multi Platform Development
+- 🌱 I’m currently learning Javascript, React JS, Typescript, NodeJS
 
 - 👯 I’m looking to collaborate on Kotlin
 
