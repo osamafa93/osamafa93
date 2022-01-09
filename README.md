@@ -7,7 +7,7 @@
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- -🔭 I’m currently working on ... -->
 <!-- - 😄 Pronouns: ...-->
-- 🌱 I’m currently learning Advanced Javascript, React JS, Typescript, NodeJS
+- 🌱 I’m currently learning React JS, Typescript, NodeJS
 
 - 👯 I’m looking to collaborate on Kotlin
 
