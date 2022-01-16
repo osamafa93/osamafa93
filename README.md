@@ -7,7 +7,7 @@
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- -🔭 I’m currently working on ... -->
 <!-- - 😄 Pronouns: ...-->
-- 🌱 I’m currently learning React JS, Typescript, NodeJS
+- 🌱 I’m currently learning React Native
 
 - 👯 I’m looking to collaborate on Kotlin
 
@@ -19,7 +19,7 @@
 
 - ✨ Portfolio: [Dribbble](https://dribbble.com/osamafa93)
 
-- 👨🏽‍💻 Languages and Tools: <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code> <code><img height="25" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+- 👨🏽‍💻 Languages and Tools: <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"></code> <code><img height="25" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code> <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
 
 
 
