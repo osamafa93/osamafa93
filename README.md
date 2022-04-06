@@ -9,7 +9,7 @@
 <!-- - 😄 Pronouns: ...-->
 - 🌱 I’m currently learning Nextjs
 
-- 👯 I’m looking to collaborate on Kotlin
+- 👯 I’m looking to collaborate on Swift
 
 - 💬 Ask me about [anything](https://github.com/osamafa93/osamafa93/issues)
 
