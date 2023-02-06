@@ -7,7 +7,7 @@
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- -🔭 I’m currently working on ... -->
 <!-- - 😄 Pronouns: ...-->
-- 🌱 I’m currently learning NestJs with GraphQL and Prisma
+- 🌱 I’m currently learning Nuxt, Vuetify
 
 - 👯 I’m looking to collaborate on Swift
 
